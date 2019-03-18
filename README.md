@@ -1,14 +1,18 @@
 # nwHacks2019
 > spotify app
-with 
+
+
+
+
+
+made with 
 * ['s'](https://github.com/ssyy0103)
 * ['r'](https://github.com/ruisen2000/nwHacks2019)
-* the others 
+* two anonymous people 
 
 
 
 
-note to self this is not the main REPO 
 
 
 ![error 404](img.JPG)
