@@ -1,3 +1,25 @@
+# nwHacks2019
+> spotify app
+with 
+* ['s'](https://github.com/ssyy0103)
+* ['r'](https://github.com/ruisen2000/nwHacks2019)
+* the others 
+
+
+
+
+note to self this is not the main REPO 
+
+
+![error 404](img.JPG)
+
+
+-----------------------------------------------
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
