@@ -1,17 +1,17 @@
 # nwHacks2019
-> spotify app
+> spotify player, with playlist gererated by specificity category and duration 'EASE web application' 
 
 
 
 
 
-made with 
-* ['s'](https://github.com/ssyy0103)
+Made with 
+* ['s'](https://github.com/ssyy0103/nwHacksFront)
 * ['r'](https://github.com/ruisen2000/nwHacks2019)
 * two anonymous people 
 
 
-## to run
+## To run
  From root DIR
 ```
 npm start 
