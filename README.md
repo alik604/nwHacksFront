@@ -11,7 +11,18 @@ made with
 * two anonymous people 
 
 
+## to run
+ From root DIR
+```
+npm start 
+ ```
 
+  From scr DIR
+
+```
+python spotify_query.py
+
+```
 
 
 
